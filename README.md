@@ -137,3 +137,7 @@ Once this is all completed, go back into Client-1. Then attempt go into the acco
 </p>
 
 After doing this exercise, you should have some intuition on how to create network files and set the permissions. Thank you checking out my tutorial! 
+
+
+**REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB!**
+
